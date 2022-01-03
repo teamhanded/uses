@@ -6,7 +6,7 @@
 * [Ginori](https://ginori1735.com/it/it/svuotatasche-quadrato-medio-pink-il-viaggio-di-nettuno-017rg00-fpt120lx021g00130100) ceramic tray, Moser [Eternity](https://moser.com/en/eternity-vase-11-5-cm-11) vase, [Dyptique](https://diptyqueparis.com/fr_fr/p/l-elide.html) or [Fueguia](https://fueguia.com/collections/candles/products/biblioteca-de-babel-candle) candles.
 
 <img src="https://user-images.githubusercontent.com/160671/147679313-abcf273c-822a-4b65-b99c-68a11442fbc3.jpg" alt="Workspace" width="40%" height="40%"></img>
-<img src="https://user-images.githubusercontent.com/160671/147678907-4f1143ac-ec42-4300-9045-736fe994a3ec.jpg" alt="Workspace - Side view" width="40%" height="40%"></img>
+<img src="https://user-images.githubusercontent.com/160671/147944192-1c420ac2-9937-4249-8a23-4bcebc6e60ce.jpg" alt="Workspace - Side view" width="40%" height="40%"></img>
   
 ## Applications
 
