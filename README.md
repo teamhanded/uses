@@ -36,7 +36,7 @@
 	## Commonly used applications
 	
 	* [Bash](http://gnu.org/software/bash/) + [fzf](https://github.com/junegunn/fzf)/[broot](https://github.com/Canop/broot) + [nnn](https://github.com/jarun/nnn) + [ag](https://github.com/ggreer/the_silver_searcher) + [bat](https://github.com/sharkdp/bat) + [m-cli](https://github.com/rgcr/m-cli) + [jq](https://github.com/stedolan/jq) + [parallel](https://gnu.org/software/parallel/) + [rsync](https://rsync.samba.org/) + [glow](https://github.com/charmbracelet/glow) + others
-	* [k9s](https://github.com/derailed/k9s) + [ansible](https://github.com/ansible/ansible) + [helm](https://helm.sh/) + [packer](https://packer.io/) + [terraform](https://hashicorp.com/products/terraform) + [boundary](https://boundaryproject.io/) for work-related deployments
+	* [k9s](https://github.com/derailed/k9s) + [helm](https://helm.sh/) + [packer](https://packer.io/) + [terraform](https://hashicorp.com/products/terraform) + [boundary](https://boundaryproject.io/) for work-related deployments
 	* [tmux](https://github.com/tmux/tmux/wiki) + [mosh](https://mosh.org/) + [pam_yubikey](https://github.com/Yubico/yubico-pam) + [pam_duress](https://github.com/nuvious/pam-duress) for interacting with my cloud VMs
 	* [nvim](https://github.com/neovim/neovim) + [vim-airline](https://github.com/vim-airline/vim-airline) + [hub](https://github.com/github/hub) + [git](https://git-scm.com/) for terminal-based software development
 	* [aws-cli](https://github.com/aws/aws-cli) + [gcloud](https://formulae.brew.sh/cask/google-cloud-sdk) + [aws-mfa](https://github.com/lonelyplanet/aws-mfa) for CLI cloud access
@@ -69,6 +69,7 @@
 	* [Slack](https://slack.com)
 	* [Pock](https://pock.app/)
 	* [Flux](https://justgetflux.com/)
+	* [Cron](https://cron.com/)
 </details>
 
 This setup is ever-changing, so I figured I'd version it. ✨
