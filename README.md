@@ -38,7 +38,7 @@
 	## Commonly used applications
 	
 	* [Bash](http://gnu.org/software/bash/) + [fzf](https://github.com/junegunn/fzf)/[broot](https://github.com/Canop/broot) + [nnn](https://github.com/jarun/nnn) + [ag](https://github.com/ggreer/the_silver_searcher) + [bat](https://github.com/sharkdp/bat) + [m-cli](https://github.com/rgcr/m-cli) + [jq](https://github.com/stedolan/jq) + [parallel](https://gnu.org/software/parallel) + [rsync](https://rsync.samba.org/) + [glow](https://github.com/charmbracelet/glow) + [asdf](https://github.com/asdf-vm/asdf) + others for CLI operations
-	* [bettercap](https://github.com/bettercap/bettercap) + [metasploit](https://github.com/rapid7/metasploit-framework) + [mimikatz](https://github.com/gentilkiwi/mimikatz) + [Cobals Strike](https://cobaltstrike.com) + [YARA](https://virustotal.github.io/yara) + others for security research and tasks
+	* [bettercap](https://github.com/bettercap/bettercap) + [metasploit](https://github.com/rapid7/metasploit-framework) + [mimikatz](https://github.com/gentilkiwi/mimikatz) + [Cobalt Strike](https://cobaltstrike.com) + [YARA](https://virustotal.github.io/yara) + others for security research and tasks
 
 	* [k9s](https://github.com/derailed/k9s) + [helm](https://helm.sh) + [terraform](https://hashicorp.com/products/terraform) + [packer](https://packer.io) + [OPA](https://openpolicyagent.org) + [osquery](https://osquery.io/) for Kubernetes, IaC and IaP deployments
 	* [tmux](https://github.com/tmux/tmux/wiki) + [mosh](https://mosh.org/) + [pam_yubikey](https://github.com/Yubico/yubico-pam) + [pam_duress](https://github.com/nuvious/pam-duress) for interacting with my cloud VMs
