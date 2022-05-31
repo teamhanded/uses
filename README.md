@@ -2,11 +2,15 @@
 
 ### Hardware
 * Mazzucchelli [Manto](https://instagram.com/p/CQM38bSnB10/) wooden desk, Herman Miller [Cosm](https://hermanmiller.com/en_us/products/seating/office-chairs/cosm-chairs/) mesh chair, [Steelcase](https://steelcase.com/products/computer-support/footrest/) footrest
-* MacBook [Pro](https://apple.com/macbook-pro-16/) 16", [Moft](https://moft.us/collections/moft-stand-series/products/moft-z-5-in-1-sit-stand-desk) laptop stand, Sennheiser [Momentum](https://en-us.sennheiser.com/momentumwireless) headphones 
-* Keychron [K6](https://keychron.com/products/keychron-k6-wireless-mechanical-keyboard) keyboard with maple [wrist rest](https://instagram.com/p/CBJZlWTH5yx/), Logitech [MX Ergo](https://logitech.com/en-us/products/mice/mx-ergo-wireless-trackball-mouse.910-005177.html) trackball.
+* MacBook [Pro](https://apple.com/macbook-pro-16/) 16" ¹, [Moft](https://moft.us/collections/moft-stand-series/products/moft-z-5-in-1-sit-stand-desk) laptop stand, Sennheiser [Momentum](https://en-us.sennheiser.com/momentumwireless) headphones 
+* Keychron [K6](https://keychron.com/products/keychron-k6-wireless-mechanical-keyboard) keyboard with maple [wrist rest](https://instagram.com/p/CBJZlWTH5yx/)², Logitech [MX Ergo](https://logitech.com/en-us/products/mice/mx-ergo-wireless-trackball-mouse.910-005177.html) trackball.
 
 <img src="https://user-images.githubusercontent.com/160671/147679313-abcf273c-822a-4b65-b99c-68a11442fbc3.jpg" alt="Workspace" width="40%" height="40%"></img>
 <img src="https://user-images.githubusercontent.com/160671/147944192-1c420ac2-9937-4249-8a23-4bcebc6e60ce.jpg" alt="Workspace - Side view" width="40%" height="40%"></img>
+
+
+¹ Lenovo ThinkPad [X1](https://lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-extreme-g4/22tp2x1x1e4) Extreme Gen 4 to be added soonish. 
+² Metakey [Tenet](https://clickclack.io/pages/metakey-tenet) to be added soon!
   
 ## Applications
 
