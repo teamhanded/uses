@@ -10,6 +10,7 @@
 
 
 ¹ Lenovo ThinkPad [X1](https://lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-extreme-g4/22tp2x1x1e4) Extreme Gen 4 to be added soonish. 
+
 ² Metakey [Tenet](https://clickclack.io/pages/metakey-tenet) to be added soon!
   
 ## Applications
