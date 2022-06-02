@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/160671/171283567-9b6f8584-3702-4f3d-816c-c2f14a805ce0.jpg" alt="Workspace - Side view" width="40%" height="40%"></img>
 
 
-¹ Lenovo ThinkPad [X1](https://lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-extreme-g4/22tp2x1x1e4) Extreme Gen 4 to be added soonish. 
+¹ Lenovo ThinkPad [X1](https://www.lenovo.com/us/en/p/coming-soon/thinkpad-x1-extreme-gen-5-16-intel/len101t0018) Extreme Gen 5 to be added soon. 
 
 ² Metakey [Tenet](https://clickclack.io/pages/metakey-tenet) and Dygma [Defy](https://kickstarter.com/projects/deilor/defy-keyboard) to be added soon.
   
@@ -43,7 +43,7 @@
 	
 	* [Bash](http://gnu.org/software/bash/) + [fzf](https://github.com/junegunn/fzf)/[broot](https://github.com/Canop/broot) + [nnn](https://github.com/jarun/nnn) + [ag](https://github.com/ggreer/the_silver_searcher) + [bat](https://github.com/sharkdp/bat) + [m-cli](https://github.com/rgcr/m-cli) + [jq](https://github.com/stedolan/jq) + [parallel](https://gnu.org/software/parallel) + [rsync](https://rsync.samba.org/) + [glow](https://github.com/charmbracelet/glow) + [asdf](https://github.com/asdf-vm/asdf) + [wtfutil](https://github.com/wtfutil/wtf) + others for CLI operations
 	* [bettercap](https://github.com/bettercap/bettercap) + [metasploit](https://github.com/rapid7/metasploit-framework) + [mimikatz](https://github.com/gentilkiwi/mimikatz) + [Cobalt Strike](https://cobaltstrike.com)/[sliver](https://github.com/BishopFox/sliver) + [Sigma](https://github.com/SigmaHQ/sigma)/[Yara](https://virustotal.github.io/yara) + [clash](https://github.com/Dreamacro/clash) + others for security research and tasks
-	* [k9s](https://github.com/derailed/k9s) + [helm](https://helm.sh) + [terraform](https://hashicorp.com/products/terraform) + [packer](https://packer.io) + [OPA](https://openpolicyagent.org) +  [eksctl](https://eksctl.io) + [Telepresence](https://telepresence.io/) + [Falco](https://falco.org/) + [Crossplane](https://crossplane.io/) for Kubernetes, IaC and IaP deployments
+	* [k9s](https://github.com/derailed/k9s) + [helm](https://helm.sh) + [stern](https://github.com/wercker/stern) + [kubectx](https://github.com/ahmetb/kubectx) + [terraform](https://hashicorp.com/products/terraform) + [packer](https://packer.io) + [OPA](https://openpolicyagent.org) +  [eksctl](https://eksctl.io) + [Telepresence](https://telepresence.io/) + [Falco](https://falco.org/) + [Crossplane](https://crossplane.io/) for Kubernetes, IaC and IaP deployments
 	* [tmux](https://github.com/tmux/tmux/wiki) + [mosh](https://mosh.org/) + [pam_yubikey](https://github.com/Yubico/yubico-pam) + [pam_duress](https://github.com/nuvious/pam-duress) + [clash](https://github.com/Dreamacro/clash) + for interacting with my cloud VMs
 	* [nvim](https://github.com/neovim/neovim) + [vim-airline](https://github.com/vim-airline/vim-airline) + [hub](https://github.com/github/hub) + [git](https://git-scm.com/) for terminal-based software development
 	* [cilium](https://github.com/cilium/cilium) + [eBPF](https://ebpf.io) + [u-root](https://u-root.org/) + [gdb](http://www.gnu.org/software/gdb/) + [valgrind](https://valgrind.org/) for security and performance profiling 
