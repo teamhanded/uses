@@ -20,8 +20,9 @@
 	
 	## Commonly used applications
 	
-	* [Visual Studio Code](https://code.visualstudio.com/)/[GoLand](https://jetbrains.com/go/) IDE
-		+ [Terraform](https://marketplace.visualstudio.com/items?itemName=4ops.terraform), [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools), [Ansible](https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible), [OPA](https://marketplace.visualstudio.com/items?itemName=tsandall.opa) and [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) plugins 
+	* [VSCodium](https://vscodium.com/) / [GoLand](https://jetbrains.com/go/) 
+		+ [Terraform](https://marketplace.visualstudio.com/items?itemName=4ops.terraform), [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools), [OPA](https://marketplace.visualstudio.com/items?itemName=tsandall.opa) and [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) plugins 
+		+ [Flatland Monokai](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-FlatlandMonokai) or [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) theme
 		+ [Ayuthaya](https://fontpark.com/en/ayuthaya.font) font with ligatures
 	* [Sequel Pro](https://sequelpro.com/)
 	* [Burp Suite](https://portswigger.net/burp)
@@ -30,7 +31,6 @@
 	* [Tailscale](https://tailscale.com/)
 	* [Hopper](https://hopperapp.com/)
 	* [GHidra](https://ghidra-sre.org/)
-	* [Dash](https://kapeli.com/dash)
 	* [Rust](https://github.com/rust-lang/rust/releases/tag/1.61.0)
 	* [Zap](https://zaproxy.org/)
 	* [Go](https://github.com/golang/go/releases/tag/go1.18.2)
