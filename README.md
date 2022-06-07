@@ -36,9 +36,9 @@
 	## Programming languages, frameworks and data formats
 
 	* [Protobuf](https://github.com/protocolbuffers/protobuf)
+	* [gRPC](https://grpc.io)
 	* [Bash](https://gnu.org/software/bash/)
 	* [Rust](https://github.com/rust-lang/rust/releases/tag/1.61.0)
-	* [gRPC](https://grpc.io)
 	* [Nim](https://nim-lang.org/)
 	* [Go](https://github.com/golang/go/releases/tag/go1.18.2)
 
