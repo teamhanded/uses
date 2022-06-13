@@ -2,16 +2,14 @@
 
 ### Hardware
 * Mazzucchelli [Manto](https://instagram.com/p/CQM38bSnB10/) wooden desk, Herman Miller [Cosm](https://hermanmiller.com/en_us/products/seating/office-chairs/cosm-chairs/) mesh chair, [Steelcase](https://steelcase.com/products/computer-support/footrest/) footrest
-* MacBook [M1](https://apple.com/macbook-pro-14-and-16/) Pro 14", MacBook [Pro](https://apple.com/macbook-pro-16/) 16" ¹, [Moft](https://moft.us/collections/moft-stand-series/products/moft-z-5-in-1-sit-stand-desk) laptop stand, Sennheiser [Momentum](https://en-us.sennheiser.com/momentumwireless) headphones 
-* Keychron [K6](https://keychron.com/products/keychron-k6-wireless-mechanical-keyboard) keyboard with maple [wrist rest](https://instagram.com/p/CBJZlWTH5yx/)², Logitech [MX Ergo](https://logitech.com/en-us/products/mice/mx-ergo-wireless-trackball-mouse.910-005177.html) trackball.
+* MacBook [M1](https://apple.com/macbook-pro-14-and-16/) Pro 14", MacBook [Pro](https://apple.com/macbook-pro-16/) 16", [Moft](https://moft.us/collections/moft-stand-series/products/moft-z-5-in-1-sit-stand-desk) laptop stand, Sennheiser [Momentum](https://en-us.sennheiser.com/momentumwireless) headphones 
+* Keychron [K6](https://keychron.com/products/keychron-k6-wireless-mechanical-keyboard) keyboard with maple [wrist rest](https://instagram.com/p/CBJZlWTH5yx/)¹, Logitech [MX Ergo](https://logitech.com/en-us/products/mice/mx-ergo-wireless-trackball-mouse.910-005177.html) trackball.
 
 <img src="https://user-images.githubusercontent.com/160671/147679313-abcf273c-822a-4b65-b99c-68a11442fbc3.jpg" alt="Workspace - Front view" width="40%" height="40%"></img>
 <img src="https://user-images.githubusercontent.com/160671/171283567-9b6f8584-3702-4f3d-816c-c2f14a805ce0.jpg" alt="Workspace - Side view" width="40%" height="40%"></img>
 
 
-¹ Lenovo ThinkPad [X1](https://lenovo.com/us/en/p/coming-soon/thinkpad-x1-extreme-gen-5-16-intel/len101t0018) Extreme Gen 5 to be added soon. 
-
-² Metakey [Tenet](https://clickclack.io/pages/metakey-tenet) and Dygma [Defy](https://kickstarter.com/projects/deilor/defy-keyboard) to be added soon.
+¹ Metakey [Tenet](https://clickclack.io/pages/metakey-tenet) and Dygma [Defy](https://kickstarter.com/projects/deilor/defy-keyboard) to be added soon.
   
 ## Applications
 
@@ -49,11 +47,11 @@
 	
 	## Commonly used applications
 	
-	* [Bash](http://gnu.org/software/bash/) + [fzf](https://github.com/junegunn/fzf)/[broot](https://github.com/Canop/broot) + [nnn](https://github.com/jarun/nnn) + [ag](https://github.com/ggreer/the_silver_searcher) + [bat](https://github.com/sharkdp/bat) + [m-cli](https://github.com/rgcr/m-cli) + [jq](https://github.com/stedolan/jq) + [parallel](https://gnu.org/software/parallel) + [rsync](https://rsync.samba.org/) + [glow](https://github.com/charmbracelet/glow) + [asdf](https://github.com/asdf-vm/asdf) + [wtfutil](https://github.com/wtfutil/wtf) + others for CLI operations
-	* [bettercap](https://github.com/bettercap/bettercap) + [metasploit](https://github.com/rapid7/metasploit-framework) + [mimikatz](https://github.com/gentilkiwi/mimikatz) + [Cobalt Strike](https://cobaltstrike.com)/[sliver](https://github.com/BishopFox/sliver) + [Sigma](https://github.com/SigmaHQ/sigma)/[Yara](https://virustotal.github.io/yara) + [clash](https://github.com/Dreamacro/clash) + others for security research and tasks
+	* [Bash](http://gnu.org/software/bash/) + [fzf](https://github.com/junegunn/fzf)/[broot](https://github.com/Canop/broot) + [nnn](https://github.com/jarun/nnn) + [ag](https://github.com/ggreer/the_silver_searcher) + [bat](https://github.com/sharkdp/bat) + [m-cli](https://github.com/rgcr/m-cli) + [jq](https://github.com/stedolan/jq) + [parallel](https://gnu.org/software/parallel) + [rsync](https://rsync.samba.org/) + [glow](https://github.com/charmbracelet/glow) + [kmon](https://github.com/orhun/kmon) + [asdf](https://github.com/asdf-vm/asdf) + [wtfutil](https://github.com/wtfutil/wtf) + others for CLI operations
+	* [bettercap](https://github.com/bettercap/bettercap) + [metasploit](https://github.com/rapid7/metasploit-framework) + [mimikatz](https://github.com/gentilkiwi/mimikatz) + [Cobalt Strike](https://cobaltstrike.com)/[sliver](https://github.com/BishopFox/sliver) + [Sigma](https://github.com/SigmaHQ/sigma)/[Yara](https://virustotal.github.io/yara) + [clash](https://github.com/Dreamacro/clash) + [httpie](https://httpie.io/) + others for security research and tasks
 	* [k9s](https://github.com/derailed/k9s) + [helm](https://helm.sh) + [stern](https://github.com/wercker/stern) + [kubectx](https://github.com/ahmetb/kubectx) + [terraform](https://hashicorp.com/products/terraform) + [packer](https://packer.io) + [OPA](https://openpolicyagent.org) +  [eksctl](https://eksctl.io) + [Telepresence](https://telepresence.io/) + [Falco](https://falco.org/) + [Crossplane](https://crossplane.io/) for Kubernetes, IaC and IaP deployments
-	* [tmux](https://github.com/tmux/tmux/wiki) + [mosh](https://mosh.org/) + [pam_yubikey](https://github.com/Yubico/yubico-pam) + [pam_duress](https://github.com/nuvious/pam-duress) + [clash](https://github.com/Dreamacro/clash) + for interacting with my cloud VMs
-	* [nvim](https://github.com/neovim/neovim) + [vim-airline](https://github.com/vim-airline/vim-airline) + [hub](https://github.com/github/hub) + [git](https://git-scm.com/) for terminal-based software development
+	* [zellij](https://github.com/zellij-org/zellij)/[tmux](https://github.com/tmux/tmux/wiki) + [mosh](https://mosh.org/) + [pam_yubikey](https://github.com/Yubico/yubico-pam) + [pam_duress](https://github.com/nuvious/pam-duress) + [clash](https://github.com/Dreamacro/clash) + for interacting with my cloud VMs
+	* [nvim](https://github.com/neovim/neovim) + [astronvim](https://github.com/AstroNvim/AstroNvim) + [vim-airline](https://github.com/vim-airline/vim-airline) + [hub](https://github.com/github/hub) + [git](https://git-scm.com/) for terminal-based software development
 	* [cilium](https://github.com/cilium/cilium) + [eBPF](https://ebpf.io) + [u-root](https://u-root.org/) + [gdb](http://gnu.org/software/gdb/) + [valgrind](https://valgrind.org/) for security and performance profiling 
 	* [aws-cli](https://github.com/aws/aws-cli) + [gcloud](https://formulae.brew.sh/cask/google-cloud-sdk) + [aws-mfa](https://github.com/lonelyplanet/aws-mfa) + [granted](https://granted.dev) for CLI cloud access
 	* [visidata](https://visidata.org/) + [antiword](http://winfield.demon.nl/) for Office documents access.
