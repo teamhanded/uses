@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/160671/171283567-9b6f8584-3702-4f3d-816c-c2f14a805ce0.jpg" alt="Workspace - Side view" width="40%" height="40%"></img>
 
 
-¹ Metakey [Tenet](https://clickclack.io/pages/metakey-tenet) and Dygma [Defy](https://kickstarter.com/projects/deilor/defy-keyboard) to be added soon.
+¹ Metakey [Tenet](https://clickclack.io/pages/metakey-tenet), Protozoa [Foundation](https://geekhack.org/index.php?topic=115707.0), Keychron [K8 Pro](https://keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard?variant=40024462327897) and Dygma [Defy](https://kickstarter.com/projects/deilor/defy-keyboard) to be added soon.
   
 ## Applications
 
