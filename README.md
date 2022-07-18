@@ -3,14 +3,13 @@
 ### Hardware
 * Mazzucchelli [Manto](https://instagram.com/p/CQM38bSnB10/) wooden desk, Herman Miller [Cosm](https://hermanmiller.com/en_us/products/seating/office-chairs/cosm-chairs/) mesh chair, [Steelcase](https://steelcase.com/products/computer-support/footrest/) footrest
 * MacBook [M1](https://apple.com/macbook-pro-14-and-16/) Pro 14", MacBook [Pro](https://apple.com/macbook-pro-16/) 16", [Moft](https://moft.us/collections/moft-stand-series/products/moft-z-5-in-1-sit-stand-desk) laptop stand, Sennheiser [Momentum](https://en-us.sennheiser.com/momentumwireless) headphones 
-* Keychron [K6](https://keychron.com/products/keychron-k6-wireless-mechanical-keyboard) keyboard with maple [wrist rest](https://instagram.com/p/CBJZlWTH5yx/)¹, Logitech [MX Ergo](https://logitech.com/en-us/products/mice/mx-ergo-wireless-trackball-mouse.910-005177.html) trackball.
+* Keychron [K6](https://keychron.com/products/keychron-k6-wireless-mechanical-keyboard)/[K8 Pro](https://keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard?variant=40024462327897) keyboards with maple [wrist rest](https://instagram.com/p/CBJZlWTH5yx/)¹, Logitech [MX Ergo](https://logitech.com/en-us/products/mice/mx-ergo-wireless-trackball-mouse.910-005177.html) trackball.
 
 <img src="https://user-images.githubusercontent.com/160671/147679313-abcf273c-822a-4b65-b99c-68a11442fbc3.jpg" alt="Workspace - Front view" width="40%" height="40%"></img>
 <img src="https://user-images.githubusercontent.com/160671/171283567-9b6f8584-3702-4f3d-816c-c2f14a805ce0.jpg" alt="Workspace - Side view" width="40%" height="40%"></img>
 
+¹ Incoming: Metakey [Tenet](https://clickclack.io/pages/metakey-tenet), Protozoa [Foundation](https://geekhack.org/index.php?topic=115707.0), Keychron [Q8](https://www.keychron.com/pages/keychron-q8-customizable-mechanical-keyboard), Dygma [Defy](https://kickstarter.com/projects/deilor/defy-keyboard).
 
-¹ Metakey [Tenet](https://clickclack.io/pages/metakey-tenet), Protozoa [Foundation](https://geekhack.org/index.php?topic=115707.0), Keychron [K8 Pro](https://keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard?variant=40024462327897) and Dygma [Defy](https://kickstarter.com/projects/deilor/defy-keyboard) to be added soon.
-  
 ## Applications
 
 * <details> 
@@ -27,18 +26,18 @@
 	* [Multipass](https://multipass.run/)
 	* [Postman](https://postman.com/)
 	* [Tailscale](https://tailscale.com/)
-	* [Hopper](https://hopperapp.com/)
 	* [GHidra](https://ghidra-sre.org/)
+	* [Cutter](https://cutter.re/)
 	* [Zap](https://zaproxy.org/)
 
-	## Programming languages, frameworks and data formats
+	## Programming languages, frameworks, etc
 
 	* [Protobuf](https://github.com/protocolbuffers/protobuf)
+	* [Python](https://python.org)
 	* [gRPC](https://grpc.io)
-	* [Bash](https://gnu.org/software/bash/)
-	* [Rust](https://github.com/rust-lang/rust/releases/tag/1.61.0)
+	* [Rust](https://github.com/rust-lang/rust/)
 	* [Nim](https://nim-lang.org/)
-	* [Go](https://github.com/golang/go/releases/tag/go1.18.2)
+	* [Go](https://github.com/golang/go/)
 
 </details>
 
