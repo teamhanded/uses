@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/160671/230222790-73a51d5e-5dda-467e-a8e7-53df8ac6ff08.jpg" alt="Workspace - Side view" width="40%" height="40%"></img>
 <img src="https://user-images.githubusercontent.com/160671/230222777-4709b751-126e-483f-b474-ca7cf667ff82.jpg" alt="Workspace - Front view" width="40%" height="40%"></img>
 
-¹ **Current**: Metakey [Tenet](https://clickclack.io/pages/metakey-tenet). **Incoming**: Protozoa [Foundation](https://geekhack.org/index.php?topic=115707.0), Dygma [Defy](https://kickstarter.com/projects/deilor/defy-keyboard), Meletrix [Zoom65](https://zoom65.com/) v2.
+¹ **Current**: Metakey [Tenet](https://clickclack.io/pages/metakey-tenet), Meletrix [Zoom65](https://zoom65.com/) EE v2. **Incoming**: Protozoa [Foundation](https://geekhack.org/index.php?topic=115707.0), Dygma [Defy](https://kickstarter.com/projects/deilor/defy-keyboard).
   
 
 ## Applications
