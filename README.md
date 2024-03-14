@@ -84,7 +84,7 @@
   	* [Raycast](https://raycast.com) 		
 	* [Vimac](https://vimacapp.com)
 	* [Scoot](https://github.com/mjrusso/scoot)
-    	* [Rcmd](https://lowtechguys.com/rcmd)
+ 	* [Rcmd](https://lowtechguys.com/rcmd)
 	* [Slack](https://slack.com)
 	* [Pock](https://pock.app/)
 	* [Cron](https://cron.com/)
