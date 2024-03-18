@@ -31,7 +31,7 @@
 	* [VSCodium](https://vscodium.com/) / [GoLand](https://jetbrains.com/go/) 
 		+ [Terraform](https://marketplace.visualstudio.com/items?itemName=4ops.terraform), [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools), [OPA](https://marketplace.visualstudio.com/items?itemName=tsandall.opa) and [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) plugins 
 		+ [Flatland Monokai](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-FlatlandMonokai) or [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) theme
-		+ [Ayuthaya](https://fontpark.com/en/ayuthaya.font) font with ligatures
+		+ [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/) font with ligatures
  	* [Little Snitch](https://obdev.at/products/littlesnitch/)
  	* [Binary Ninja](https://binary.ninja/) 
 	* [Sequel Pro](https://sequelpro.com/)
@@ -42,11 +42,11 @@
 	* [Parallels](https://parallels.com)
 	* [Ghidra](https://ghidra-sre.org/)
 
-	## Programming languages
+	## Programming languages/Frameworks
 
 	* [Python](https://python.org) 
-	* [Nim](https://nim-lang.org/) 
-	* [Go](https://github.com/golang/go/)
+	* [Nim](https://nim-lang.org/)
+   	* [Go](https://github.com/golang/go/)
 </details>
 
 * <details> 
@@ -68,7 +68,7 @@
 	
 	## Commonly used applications
 	
-	* [iTerm2](https://iterm2.com/) + [Meslo LG M](https://localfonts.eu/freefonts/programming-fonts/meslo-lg-m/) font
+	* [iTerm2](https://iterm2.com/) + [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/) font
 	* [Chrome](https://mozilla.org/firefox)
 		+ [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
 		+ [Privacy Badger](https://privacybadger.org/)
