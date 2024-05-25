@@ -37,7 +37,6 @@
 	* [Sequel Pro](https://sequelpro.com/)
 	* [Burp Suite](https://portswigger.net/burp)
 	* [Multipass](https://multipass.run/)
- 	* [Postman](https://postman.com/) 
 	* [Tailscale](https://tailscale.com/)
 	* [Parallels](https://parallels.com)
 	* [Ghidra](https://ghidra-sre.org/)
