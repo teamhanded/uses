@@ -3,15 +3,12 @@
 ### Hardware
 * Mazzucchelli [Manto](https://instagram.com/p/CQM38bSnB10/) wooden desk, Herman Miller [Cosm](https://hermanmiller.com/en_us/products/seating/office-chairs/cosm-chairs/) mesh chair, [Steelcase](https://steelcase.com/products/computer-support/footrest/) footrest
 * MacBook [Pro](https://apple.com/macbook-pro-14-and-16/) 16" M3 Pro, [Moft](https://moft.us/collections/moft-stand-series/products/moft-z-5-in-1-sit-stand-desk) laptop stand, Sennheiser [Momentum](https://en-us.sennheiser.com/momentumwireless) headphones 
-* Keychron [K8 Pro](https://keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard?variant=40024462327897) keyboard ¹, Logitech [MX Ergo](https://logitech.com/en-us/products/mice/mx-ergo-wireless-trackball-mouse.910-005177.html) trackball
+* Dygma [Defy](https://kickstarter.com/projects/deilor/defy-keyboard) keyboard ¹, Logitech [MX Ergo](https://logitech.com/en-us/products/mice/mx-ergo-wireless-trackball-mouse.910-005177.html) trackball
 * Usually a scented candle, books, and a cup of tea.
 
-<img src="https://user-images.githubusercontent.com/160671/230222790-73a51d5e-5dda-467e-a8e7-53df8ac6ff08.jpg" alt="Workspace - Side view" width="45%" height="45%"></img>
-<img src="https://user-images.githubusercontent.com/160671/230222777-4709b751-126e-483f-b474-ca7cf667ff82.jpg" alt="Workspace - Front view" width="45%" height="45%"></img>
+<img src="https://github.com/user-attachments/assets/a53c19e8-b226-421a-a7ec-f7da8665057a" alt="Workspace" width="90%" height="90%"></img>
 
-<img src="https://github.com/teamhanded/uses/assets/160671/9e5c4be4-0b95-4d26-b559-cfe1ac0d6b2c" alt="Workspace - Front view" width="90%" height="90%"></img>
-
-¹ **Current**: Metakey [Tenet](https://clickclack.io/pages/metakey-tenet), Protozoa [Foundation](https://geekhack.org/index.php?topic=115707.0), Meletrix [Zoom65](https://zoom65.com/) EE v2, Dygma [Defy](https://kickstarter.com/projects/deilor/defy-keyboard). 
+¹ **Current**: Keychron [K8 Pro](https://keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard?variant=40024462327897), Metakey [Tenet](https://clickclack.io/pages/metakey-tenet), Protozoa [Foundation](https://geekhack.org/index.php?topic=115707.0), Meletrix [Zoom65](https://zoom65.com/) EE v2. 
 
 **Incoming**: [Type K](https://typeplus.net/collections/type-k/products/gb-type-k).
   
