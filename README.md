@@ -12,7 +12,7 @@
   
 ## Operating system
 
-* macOS [Sonoma](https://apple.com/macos/sonoma/)
+* macOS [Sequoia](https://apple.com/macos/sequoia/)
 * Fedora [Asahi](https://asahilinux.org/fedora/) 
 
 ## Applications
@@ -31,7 +31,7 @@
   	* [JavaScript](https://262.ecma-international.org/)
   	* [Python](https://python.org) 
    	* [Go](https://github.com/golang/go/)
-   	* [C](https://www.iso.org/standard/82075.html)
+   	* [C](https://iso.org/standard/82075.html)
 </details>
 
 * <details> 
@@ -52,12 +52,10 @@
 	<summary style="display:inline-table;">Productivity</summary>	
 	
 	## Commonly used applications
-	
-	* [iTerm2](https://iterm2.com/) + [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/) font
-	* [Chrome](https://mozilla.org/firefox)
-		+ [Privacy Badger](https://privacybadger.org/)
-		+ [AdBlock Plus](https://adblockplus.org)
-		+ [Ghostery](https://ghostery.com/)
+
+	* [NextDNS](https://nextdns.io) + [WireGuard](https://wireguard.io) (self-hosted) 
+	* [iTerm2](https://iterm2.com/) + [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/)
+	* [Google Chrome](hgoogle.com/chrome/index.html)
    	* [BetterDisplay](https://github.com/waydabber/BetterDisplay)
 	* [Micro Snitch](https://obdev.at/products/microsnitch)
   	* [Binary Ninja](https://binary.ninja/)
@@ -69,7 +67,6 @@
   	* [Homerow](https://www.homerow.app/)
 	* [Amethyst](https://github.com/ianyh/Amethyst)
 	* [Obsidian](https://obsidian.md)
-	* [Tailscale](https://tailscale.com/)
 	* [Parallels](https://parallels.com)
 	* [Slack](https://slack.com)
 	* [Flux](https://justgetflux.com/)
